@@ -1,0 +1,188 @@
+{
+  "durationMinutes": 30,
+  "totalQuestions": 25,
+  "marksPerQuestion": 1,
+  "negativeMarksPerQuestion": 0.25,
+  "instructionsText": [
+    "सभी प्रश्नों का उत्तर देना अनिवार्य नहीं है।",
+    "गलत उत्तर पर 1/4 अंक की कटौती होगी यदि नेगेटिव मार्किंग ON है।",
+    "समय समाप्त होने पर टेस्ट अपने आप सबमिट हो जाएगा।"
+  ],
+  "questions": [
+    {
+      "questionText": "पानी का रासायनिक सूत्र क्या है?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "correctOptionIndex": 0,
+      "explanation": "पानी का रासायनिक सूत्र H₂O है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "सौर मंडल का सबसे बड़ा ग्रह कौन सा है?",
+      "options": ["पृथ्वी", "मंगल", "शनि", "बृहस्पति"],
+      "correctOptionIndex": 3,
+      "explanation": "बृहस्पति सौर मंडल का सबसे बड़ा ग्रह है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "मनुष्य की सबसे बड़ी ग्रंथि कौन सी है?",
+      "options": ["अग्न्याशय", "लीवर", "गुर्दा", "हृदय"],
+      "correctOptionIndex": 1,
+      "explanation": "लीवर (यकृत) मानव शरीर की सबसे बड़ी ग्रंथि है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "वनस्पति में खाद्य निर्माण की प्रक्रिया को क्या कहते हैं?",
+      "options": ["श्वसन", "परासरण", "प्रकाश संश्लेषण", "उत्सर्जन"],
+      "correctOptionIndex": 2,
+      "explanation": "वनस्पति द्वारा भोजन निर्माण की प्रक्रिया प्रकाश संश्लेषण कहलाती है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "किस विटामिन की कमी से रतौंधी रोग होता है?",
+      "options": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+      "correctOptionIndex": 0,
+      "explanation": "विटामिन A की कमी से रतौंधी रोग होता है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "हड्डियों और दांतों का निर्माण मुख्यतः किस खनिज से होता है?",
+      "options": ["आयरन", "कैल्शियम", "पोटैशियम", "सोडियम"],
+      "correctOptionIndex": 1,
+      "explanation": "हड्डियों और दांतों का मुख्य घटक कैल्शियम है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "विद्युत धारा की इकाई क्या है?",
+      "options": ["वोल्ट", "ओम", "एम्पीयर", "वॉट"],
+      "correctOptionIndex": 2,
+      "explanation": "विद्युत धारा की इकाई एम्पीयर है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "सूर्य का प्रमुख गैस घटक क्या है?",
+      "options": ["ऑक्सीजन", "हाइड्रोजन", "कार्बन डाइऑक्साइड", "हीलियम"],
+      "correctOptionIndex": 1,
+      "explanation": "सूर्य मुख्यतः हाइड्रोजन गैस से बना है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "मानव शरीर में कुल कितनी हड्डियाँ होती हैं?",
+      "options": ["206", "210", "208", "201"],
+      "correctOptionIndex": 0,
+      "explanation": "वयस्क मानव शरीर में कुल 206 हड्डियाँ होती हैं।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "पृथ्वी की सबसे बाहरी परत को क्या कहते हैं?",
+      "options": ["क्रोड", "मेटल", "मैटल", "भूपर्पटी"],
+      "correctOptionIndex": 3,
+      "explanation": "पृथ्वी की सबसे बाहरी परत को भूपर्पटी कहते हैं।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "सबसे हल्का तत्व कौन सा है?",
+      "options": ["हीलियम", "हाइड्रोजन", "ऑक्सीजन", "नाइट्रोजन"],
+      "correctOptionIndex": 1,
+      "explanation": "हाइड्रोजन सबसे हल्का तत्व है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "DNA का पूरा नाम क्या है?",
+      "options": ["Deoxyribonucleic Acid", "Deoxyribose Nucleic Acid", "Dioxygen Nucleic Acid", "Double Nucleic Acid"],
+      "correctOptionIndex": 0,
+      "explanation": "DNA का पूरा नाम Deoxyribonucleic Acid है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "प्रकाश वर्ष किसे मापने की इकाई है?",
+      "options": ["समय", "ऊर्जा", "दूरी", "गति"],
+      "correctOptionIndex": 2,
+      "explanation": "प्रकाश वर्ष दूरी मापने की इकाई है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "कंप्यूटर की मेमोरी को क्या कहते हैं?",
+      "options": ["CPU", "RAM", "ROM", "ALU"],
+      "correctOptionIndex": 1,
+      "explanation": "RAM कंप्यूटर की अस्थायी मेमोरी होती है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "मानव रक्त में किस धातु की उपस्थिति से रक्त लाल रंग का होता है?",
+      "options": ["लोहा", "तांबा", "सोडियम", "पोटैशियम"],
+      "correctOptionIndex": 0,
+      "explanation": "रक्त में आयरन (लोहा) की उपस्थिति के कारण इसका रंग लाल होता है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "पृथ्वी पर सबसे अधिक मात्रा में पाया जाने वाला गैस कौन सा है?",
+      "options": ["ऑक्सीजन", "हाइड्रोजन", "नाइट्रोजन", "कार्बन डाइऑक्साइड"],
+      "correctOptionIndex": 2,
+      "explanation": "पृथ्वी के वायुमंडल में नाइट्रोजन सबसे अधिक मात्रा में है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "किस विटामिन को 'सनशाइन विटामिन' कहते हैं?",
+      "options": ["विटामिन A", "विटामिन B", "विटामिन C", "विटामिन D"],
+      "correctOptionIndex": 3,
+      "explanation": "विटामिन D को सनशाइन विटामिन कहा जाता है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "पेनिसिलिन किसने खोजी थी?",
+      "options": ["अलेक्जेंडर फ्लेमिंग", "थॉमस एडिसन", "गैलिलियो", "चार्ल्स डार्विन"],
+      "correctOptionIndex": 0,
+      "explanation": "अलेक्जेंडर फ्लेमिंग ने पेनिसिलिन की खोज की थी।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "ध्वनि किस माध्यम में सबसे तेज गति से चलती है?",
+      "options": ["ठोस", "द्रव", "गैस", "निर्वात"],
+      "correctOptionIndex": 0,
+      "explanation": "ध्वनि ठोस माध्यम में सबसे तेज गति से चलती है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "ओजोन परत मुख्यतः किस गैस से बनी होती है?",
+      "options": ["ऑक्सीजन", "ओजोन", "कार्बन डाइऑक्साइड", "हीलियम"],
+      "correctOptionIndex": 1,
+      "explanation": "ओजोन परत मुख्यतः ओजोन (O3) गैस से बनी होती है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "सर्वप्रथम प्रकाश की गति किसने मापी थी?",
+      "options": ["गैलीलियो", "न्यूटन", "रोमर", "आइंस्टीन"],
+      "correctOptionIndex": 2,
+      "explanation": "रोमर ने सर्वप्रथम प्रकाश की गति मापी थी।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "सबसे अधिक ऊष्मा चालक धातु कौन सी है?",
+      "options": ["लोहा", "तांबा", "एलुमिनियम", "चाँदी"],
+      "correctOptionIndex": 3,
+      "explanation": "चाँदी सबसे अच्छी ऊष्मा चालक है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "हमारे सौर मंडल का सबसे गर्म ग्रह कौन सा है?",
+      "options": ["मंगल", "शुक्र", "पृथ्वी", "बुध"],
+      "correctOptionIndex": 1,
+      "explanation": "शुक्र ग्रह सौर मंडल का सबसे गर्म ग्रह है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "कौन सा विटामिन रक्त के थक्के बनने में सहायक होता है?",
+      "options": ["विटामिन A", "विटामिन D", "विटामिन E", "विटामिन K"],
+      "correctOptionIndex": 3,
+      "explanation": "विटामिन K रक्त के थक्के बनने में सहायक होता है।",
+      "imageUrl": null
+    },
+    {
+      "questionText": "न्यूनतम तापमान को मापने के लिए किस थर्मामीटर का प्रयोग होता है?",
+      "options": ["अधिकतम थर्मामीटर", "न्यूनतम थर्मामीटर", "पारे का थर्मामीटर", "डिजिटल थर्मामीटर"],
+      "correctOptionIndex": 1,
+      "explanation": "न्यूनतम तापमान मापने के लिए न्यूनतम थर्मामीटर का प्रयोग होता है।",
+      "imageUrl": null
+    }
+  ]
+}
