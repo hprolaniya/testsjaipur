@@ -21,7 +21,7 @@
       "options": ["यमुनोत्री", "गंगोत्री", "बद्रीनाथ", "हरिद्वार"],
       "correctOptionIndex": 1,
       "explanation": "गंगा नदी का उद्गम स्थल गंगोत्री हिमनद है।",
-      "imageUrl": https://raw.githubusercontent.com/hprolaniya/testsjaipur/refs/heads/main/1.jpg
+      "imageUrl": "https://raw.githubusercontent.com/hprolaniya/testsjaipur/refs/heads/main/1.jpg"
     },
     {
       "questionText": "भारत की सबसे लंबी नदी कौन सी है?",
